@@ -1,0 +1,3 @@
+Este repositório é dedicado ao desenvolvimento da solução corporativa do cliente Doutor Roberto, focada no acompanhamento e controle rigoroso de processos operacionais.
+
+O objetivo do sistema é otimizar o fluxo de trabalho da empresa, permitindo o registro de chamados, a gestão de fornecedores, a automação de atualização de status de processos e a consulta rápida de dados por meio de filtros avançados e relatórios analíticos em uma interface profissional e intuitiva.
